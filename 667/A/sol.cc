@@ -18,5 +18,4 @@ struct debugger
 
 int main() 
 {
-
 }
